@@ -1,0 +1,9 @@
+streamlit>=1.25.0
+streamlit-webrtc>=0.47.0
+opencv-python-headless>=4.8.0
+mediapipe>=0.10.0
+numpy>=1.23.5
+tensorflow-cpu==2.12.0 
+protobuf==3.20.3
+pickle-mixin
+av
